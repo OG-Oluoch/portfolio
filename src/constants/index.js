@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.png";
-import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project-3.png";
-import project4 from "../assets/projects/project-4.png";
+import project1 from "../assets/projects/project-1.PNG";
+import project2 from "../assets/projects/project-2.PNG";
+import project3 from "../assets/projects/project-3.PNG";
+import project4 from "../assets/projects/project-4.PNG";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable  applications.
  With 3 years of hands-on experience, 
