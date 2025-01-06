@@ -13,7 +13,7 @@ const SocialPages = () => {
         target="_blank"
         rel="noopener noreferrer"
         className="icon-link"
-       
+        style={{ fontSize: "2rem", color: "#0A66C2" }}
       >
         <FaLinkedinIn />
       </a>
